@@ -39,5 +39,15 @@ This project is a JavaFX-based **Online Examination System** with role-based log
 3. Run the `OnlineExaminationEnhancedWithInCharge.java` file.
 4. Use the credentials above to log in and explore each role.
 
-## 📌 File Structure
+
+## ✨ Future Improvements
+- Add database support for dynamic question/score storage
+- Allow question upload via admin interface
+- Track multiple exam sessions and detailed results
+
+## 👩‍💻 Author
+
+**Ezhil Bharghavi**  
+St. Peter's College of Engineering and Technology  
+GitHub: [github.com/EBharghavi](https://github.com/EBharghavi
 
