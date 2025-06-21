@@ -49,5 +49,5 @@ This project is a JavaFX-based **Online Examination System** with role-based log
 
 **Ezhil Bharghavi**  
 St. Peter's College of Engineering and Technology  
-GitHub: [github.com/EBharghavi](https://github.com/EBharghavi
+GitHub: [github.com/EBharghavi](https://github.com/EBharghavi)
 
